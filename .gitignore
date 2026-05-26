@@ -1,0 +1,16 @@
+# Maven build files
+**/target/
+thuchanh/target/
+
+# IDE files
+**/.idea/
+**/*.iml
+**/.vscode/
+**/.settings/
+**/.project
+**/.classpath
+.metadata/
+
+# OS files
+**/Thumbs.db
+**/.DS_Store
