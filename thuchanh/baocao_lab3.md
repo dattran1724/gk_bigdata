@@ -1,5 +1,5 @@
 
-## Quá trình thực hiện
+## 1. Quá trình thực hiện
 Tôi đã hoàn thành mã nguồn cho 5 phần của bài thực hành:
 1. **Phần 1**: Tạo các hàm `printEvenNumbers` và `printNumbersDivisibleByThree`.
 2. **Phần 2**: Tạo các class thực thi `Function<Integer, Boolean>` như `IsEven` và hàm `printNumbers`.
@@ -7,7 +7,7 @@ Tôi đã hoàn thành mã nguồn cho 5 phần của bài thực hành:
 4. **Phần 5**: Triển khai *Function Composition* với 2 hàm `combineWithAnd` và `combineWithOr` để nối các bộ lọc lại với nhau xử lý trường hợp nhiều cơ số.
 5. **Phần 6**: Cấu hình file `pom.xml`, viết script `run.sh` để biên dịch và đóng gói thành ứng dụng Java chạy trực tiếp qua `java -jar`.
 
-## 3. Kết quả chạy thử (Test Run)
+## 2. Kết quả chạy thử (Test Run)
 Chương trình đã được build thành công (`BUILD SUCCESS`). Script `run.sh` đã tự động chạy 3 câu lệnh kiểm thử như yêu cầu của bài. Dưới đây là kết quả thực tế thu được từ Terminal:
 
 ### Test Case 1: `java -jar target/lab3-1.0-SNAPSHOT.jar 3 20 5`
