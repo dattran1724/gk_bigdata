@@ -74,7 +74,8 @@ public class App {
 
     public static void main(String[] args) {
         if (args.length < 3) {
-            System.out.println("Error: At least three parameters expected, from, to, and base.");
+            System.out.println("Error: At least three parameters
+             expected, from, to, and base.");
             System.exit(1);
         }
 

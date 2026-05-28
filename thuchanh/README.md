@@ -1,10 +1,3 @@
-# CS167 - Lab 3
-
-- Name: Achi
-- Email: achi@email.ucr.edu
-- UCR Net ID: achi
-- Student ID: 123456789
-
 ## Answers to Questions
 
 ***(Q1) Which of the following is the right way to call the `IsEven` function?***
